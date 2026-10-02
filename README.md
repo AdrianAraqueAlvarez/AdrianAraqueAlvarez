@@ -4,7 +4,9 @@ My name is Adrian
 
 I'm a doctoral researcher at the University of Warwick in Coventry, England. I'm currently investigating the physics behind metastability in kinetically contrained models.
 
-The simulations I run for my research are in Python but I have experience using MATLAB and Mathematica. My preference is Python currently
+I have experience using Python, MATLAB and Mathematica
+
+The code I write for my simulations involve manipulation of large arrays, parallel processing and several modes of data plotting. It all combines to enable me to simulate the dynamics and longtime dynamics of an open system of kinetically constrained spins and search parameter space for special limits where the system is metastable and where it isn't.
 
 <!--
 **AdrianAraqueAlvarez/AdrianAraqueAlvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
